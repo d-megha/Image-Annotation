@@ -1,0 +1,114 @@
+<annotation>
+    <folder>img_dir</folder>
+    <filename>18_png.rf.1dcf36ff8b2aaf2bf726f90aedaba934.jpg</filename>
+    <path>C:\Users\dell\OneDrive\Desktop\annotation\streamlit-img-label\img_dir\18_png.rf.1dcf36ff8b2aaf2bf726f90aedaba934.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>10</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>334</xmin>
+            <ymin>537</ymin>
+            <xmax>374</xmax>
+            <ymax>577</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>10</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>101</xmin>
+            <ymin>274</ymin>
+            <xmax>146</xmax>
+            <ymax>325</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>10</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>15</xmin>
+            <ymin>164</ymin>
+            <xmax>55</xmax>
+            <ymax>204</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>1</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>245</xmin>
+            <ymin>29</ymin>
+            <xmax>310</xmax>
+            <ymax>62</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>9</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>302</xmin>
+            <ymin>65</ymin>
+            <xmax>331</xmax>
+            <ymax>92</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>5</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>442</xmin>
+            <ymin>222</ymin>
+            <xmax>477</xmax>
+            <ymax>242</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>9</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>444</xmin>
+            <ymin>183</ymin>
+            <xmax>474</xmax>
+            <ymax>214</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>8</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>346</xmin>
+            <ymin>161</ymin>
+            <xmax>381</xmax>
+            <ymax>194</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>6</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>388</xmin>
+            <ymin>143</ymin>
+            <xmax>414</xmax>
+            <ymax>173</ymax>
+        </bndbox>
+    </object>
+</annotation>

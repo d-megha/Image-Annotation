@@ -1,0 +1,26 @@
+<annotation>
+    <folder>img_dir</folder>
+    <filename>102_jpg.rf.a4bbec3050d47e3d210637327672c4e9.jpg</filename>
+    <path>C:\Users\dell\OneDrive\Desktop\annotation\streamlit-img-label\img_dir\102_jpg.rf.a4bbec3050d47e3d210637327672c4e9.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>1</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>206</xmin>
+            <ymin>51</ymin>
+            <xmax>261</xmax>
+            <ymax>139</ymax>
+        </bndbox>
+    </object>
+</annotation>
